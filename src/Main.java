@@ -54,6 +54,7 @@ public class Main {
             ex.printStackTrace();
         }
 
+        System.out.println("New branch test 1");
         }
 
     }
